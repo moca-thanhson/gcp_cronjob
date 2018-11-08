@@ -1,4 +1,0 @@
-cron:
-- description: "testing summary job"
-  url: /hello
-  schedule: every 2 minutes
